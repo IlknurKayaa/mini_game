@@ -21,4 +21,25 @@ oranında azalır.
 Yemek stoğu veya popülasyonu sıfıra veya eksiye düşen koloninin yaşamı sona erer.
 Her turda bütün koloniler diğer bütün koloniler ile savaşır. Örneğin 4 koloni varsa her turda toplamda 
 6 savaş yapılacaktır. Program sadece 1 koloni kalana kadar devam eder ve son kalan koloni ekranda 
-gösterilip program sonlanır. Bütün sayısal değer ve işlemler tam sayıya göre yapılmalıdır.
+gösterilip program sonlanır. Bütün sayısal değer ve işlemler tam sayıya göre yapılmalıdır.r. Örneğin 6. 
+Turun sonunda örnek bir ekran çıktısı aşağıda verilmiştir.
+
+![image](https://github.com/IlknurKayaa/mini_game/assets/83220057/fd09c5b7-0329-4520-a281-c3d6b78a6295)
+
+Yine program sonundaki örnek ekran çıktısı aşağıda verilmiştir.
+
+![image](https://github.com/IlknurKayaa/mini_game/assets/83220057/e21c836b-b4de-4f8e-b457-7132e98a2ce1)
+
+Bu ödevin en önemli kısmı derste gösterildiği şekliyle nesne yönelimli benzetimi yapılarak 
+tasarlanmasıdır. Modüler programlamaya mutlaka dikkat edilmelidir. Taktik ve Uretim yapılarında 
+soyut sınıf benzetimi beklenmektedir. Nesne yönelimli benzetimde fonksiyon göstericileri 
+kullanılmalıdır.
+Beklenen minimum sınıf ve arayüzler
+• Taktik Soyut Sınıfı veya arayüzü
+• En Az iki farklı Taktik sınıfı
+• Uretim Soyut sınıfı veya arayüzü
+• En az iki farklı Uretim sınıfı
+• Koloni sınıfı
+• Oyun sınıfı
+• Program ana sınıf
+
