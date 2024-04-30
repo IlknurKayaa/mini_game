@@ -35,11 +35,19 @@ tasarlanmasıdır. Modüler programlamaya mutlaka dikkat edilmelidir. Taktik ve 
 soyut sınıf benzetimi beklenmektedir. Nesne yönelimli benzetimde fonksiyon göstericileri 
 kullanılmalıdır.
 Beklenen minimum sınıf ve arayüzler
+
 • Taktik Soyut Sınıfı veya arayüzü
+
 • En Az iki farklı Taktik sınıfı
+
 • Uretim Soyut sınıfı veya arayüzü
+
 • En az iki farklı Uretim sınıfı
+
 • Koloni sınıfı
+
 • Oyun sınıfı
+
 • Program ana sınıf
+
 
